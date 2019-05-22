@@ -9,10 +9,10 @@
 	],
 "creatorBuild": "29156",
 "files": {
-	"/build": {
+	"/docs": {
 		"ft": 65536,
 		"oA": 1,
-		"oAP": "/build/build",
+		"oAP": "/docs/docs",
 		"oF": 0
 		},
 	"/index.html": {
@@ -20,7 +20,7 @@
 		"ft": 8192,
 		"hM": 0,
 		"oA": 0,
-		"oAP": "/build/index.html",
+		"oAP": "/docs/index.html",
 		"oF": 0
 		},
 	"/library/_typography.scss": {
@@ -31,7 +31,7 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "/build/library/_typography.css",
+		"oAP": "/docs/library/_typography.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
@@ -41,7 +41,7 @@
 		"ft": 8192,
 		"hM": 0,
 		"oA": 0,
-		"oAP": "/build/LICENSE",
+		"oAP": "/docs/LICENSE",
 		"oF": 0
 		},
 	"/README.md": {
@@ -54,7 +54,7 @@
 		"ft": 4096,
 		"hM": 0,
 		"oA": 0,
-		"oAP": "/build/README.html",
+		"oAP": "/docs/README.html",
 		"oF": 0,
 		"oFM": 0,
 		"oS": 0,
@@ -71,7 +71,7 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 0,
-		"oAP": "/build/stylesheets/styles.css",
+		"oAP": "/docs/stylesheets/styles.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
@@ -374,7 +374,7 @@
 	"browserRefreshDelay": 0,
 	"browserslistString": ">0.2%, last 2 versions, Firefox ESR, not dead",
 	"buildFolderActive": 1,
-	"buildFolderName": "build",
+	"buildFolderName": "docs",
 	"cleanBuild": 1,
 	"coffeeLintFlags2": {
 		"arrow_spacing": {
@@ -2059,10 +2059,10 @@
 	"languageDefaultsSASS": {
 		"autoOutputAction": 0,
 		"autoOutputPathFilenamePattern": "*.css",
-		"autoOutputPathRelativePath": "../css",
+		"autoOutputPathRelativePath": "",
 		"autoOutputPathReplace1": "sass",
 		"autoOutputPathReplace2": "css",
-		"autoOutputPathStyle": 0,
+		"autoOutputPathStyle": 2,
 		"createSourceMap": 0,
 		"debugStyle": 0,
 		"decimalPrecision": 10,
@@ -2130,7 +2130,7 @@
 	"overrideExternalServerCSS": 0,
 	"previewPathAddition": "",
 	"skippedFoldersString": "log, _logs, logs, _cache, cache, .idea, /storage/framework/sessions, node_modules",
-	"sourceFolderName": "source",
+	"sourceFolderName": "docs",
 	"susyVersion": 3,
 	"tsAllowSyntheticDefaultImports": 0,
 	"tsAllowUnreachableCode": 0,
@@ -2435,7 +2435,7 @@
 		},
 	"uglifyMangleNames": 1,
 	"uglifyReservedNamesString": "$,exports,require",
-	"websiteRelativeRoot": "/build"
+	"websiteRelativeRoot": "/docs"
 	},
 "settingsFileVersion": "3"
 }
